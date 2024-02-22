@@ -1,3 +1,6 @@
+# angular-Blog-BootCamp-DIO
+Blog criado com a ferramenta do Angular para aplicar meu aprendizado.
+
 # AngularBlog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.0.
