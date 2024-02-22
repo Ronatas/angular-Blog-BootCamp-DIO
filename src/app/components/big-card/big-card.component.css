@@ -1,0 +1,9 @@
+.container_big-card {
+  width: 462px;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
